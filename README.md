@@ -18,9 +18,7 @@ ROPMEMU has been published at AsiaCCS 2016 [3] and the paper can be found here [
 
 ROPMEMU documentation can be found in the [Wiki pages](https://github.com/vrtadmin/ROPMEMU/wiki).
 
-
 Happy hacking!
-
 
 - [1] http://www.volatilityfoundation.org/#!23/c173h
 - [2] http://www.unicorn-engine.org/
